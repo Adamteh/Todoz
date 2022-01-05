@@ -1,11 +1,11 @@
 # Todoz
 
-####A simple TO-DO list app
+### A simple TO-DO list app
 
 ![ScreenShot](https://github.com/Adamteh/Todoz/blob/main/images/TODOZ%20-%20A%20simple%20TO-DO%20list%20app.png?raw=true)
 
 
-######ScreenShots
+###### ScreenShots
 
 ![ScreenShot 1](https://github.com/Adamteh/Todoz/blob/main/images/android_s8/screen_1.png?raw=true)
 
